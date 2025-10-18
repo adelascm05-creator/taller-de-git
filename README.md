@@ -1,5 +1,5 @@
 # Curso de GIT
 
-Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
+Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre
 
-Desarrollado por Adela Sánchez-Crespo Moñino.
+Desarrollado por Adela Sánchez-Crespo Moñino
